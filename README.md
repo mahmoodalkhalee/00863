@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alka10 Group — Website
 
 Static holding company website for **Alka10 Group**.  
@@ -95,3 +96,7 @@ Change `--gold` to adapt the color scheme to any brand accent.
 ---
 
 *Alka10 Group — Kano, Nigeria*
+=======
+# 00863
+Assignment of Prof bashir galadanchi
+>>>>>>> 1d70a399bafff382ca5c9e64014677101b410328
